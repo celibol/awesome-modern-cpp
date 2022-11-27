@@ -146,6 +146,7 @@ libraries with novel use of new C++ features.
 * [Stackoverflow C++14](http://stackoverflow.com/questions/tagged/c%2b%2b14)
 * [Stackoverflow C++](http://stackoverflow.com/questions/tagged/c%2b%2b)
 * [The C++ Programming Language](https://isocpp.org/) - News, Status & Discussion about Standard C++.
+* [Explore C++ on kandi](https://kandi.openweaver.com/explore/c++) - Discover & find a curated list of popular libraries, trending project kits, tutorials & learning resources on kandi.
 
 ## Talks
 
